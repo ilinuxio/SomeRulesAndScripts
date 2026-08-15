@@ -1,3 +1,6 @@
 payload:
   - '+.teamcdn-a.akamaihd.net'
   - '+.steamserver.net'
+  - '+.steamcontent.comt'
+  - '+.steamstatic.com'
+  - '+.cm.steampowered.com'
