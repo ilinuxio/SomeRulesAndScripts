@@ -3,4 +3,5 @@ payload:
   - '+.steamserver.net'
   - '+.itunes.apple.com'
   - '+.cq.e-hai.one'
+  - '+.z.ai'
   - 'cq.e-hai.one'
