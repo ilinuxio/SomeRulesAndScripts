@@ -1,0 +1,8 @@
+payload:
+  - '+.teamcdn-a.akamaihd.net'
+  - '+.steamserver.net'
+  - '+.itunes.apple.com'
+  - '+.cq.e-hai.one'
+  - '+.z.ai'
+  - '+.zcode.ai'
+  - 'cq.e-hai.one'
